@@ -1,6 +1,5 @@
 ﻿using System.Xml.Serialization;
 using System.Globalization;
-using System;
 
 using (var sr = new StreamReader(@"D:\C#\Learning\Learning\obesity.csv"))
 {
